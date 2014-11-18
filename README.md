@@ -7,8 +7,6 @@ folks
 
 [nodejs](nodejs.md)
 
-http://jtdaugh.github.io/xcode-umich/
+[xcode](xcode.md)
 
-https://github.com/jlnr/gosu/wiki/Getting-Started-on-OS-X
 
-https://github.com/TooTallNate/node-gyp
