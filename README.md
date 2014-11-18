@@ -1,7 +1,7 @@
 folks
 =====
 
-[git](git)
+[git](git.md)
 
 [bootstrap less](bootstrap less)
 
