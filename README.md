@@ -1,7 +1,15 @@
 folks
 =====
 
-todo learn etc...
+Welcome to the Beedeez wiki!
+
+[git](git)
+
+[bootstrap less](bootstrap less)
+
+[nginx](nginx)
+
+[nodejs](NodeJS)
 
 http://jtdaugh.github.io/xcode-umich/
 
