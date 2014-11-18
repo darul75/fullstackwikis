@@ -3,11 +3,9 @@ folks
 
 [git](git.md)
 
-[bootstrap less](bootstrap less)
+[nginx](nginx.md)
 
-[nginx](nginx)
-
-[nodejs](NodeJS)
+[nodejs](nodejs.md)
 
 http://jtdaugh.github.io/xcode-umich/
 
