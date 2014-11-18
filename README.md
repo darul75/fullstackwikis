@@ -1,8 +1,6 @@
 folks
 =====
 
-Welcome to the Beedeez wiki!
-
 [git](git)
 
 [bootstrap less](bootstrap less)
