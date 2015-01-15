@@ -38,11 +38,22 @@ We may use it then from servers to fetch releases.
 
 ### Commit
 
+Status
+```
+git status -s
+```
+
+Commit
+```
+git commit -m 'comment'
+```
+
 Directory content example
 
 ```
 git add directory/*
 ```
+
 
 ### SSH Key
 
