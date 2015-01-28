@@ -9,4 +9,6 @@ folks
 
 [xcode](xcode.md)
 
+[algo](algo.md)
+
 
