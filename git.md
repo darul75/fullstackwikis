@@ -54,6 +54,9 @@ Directory content example
 git add directory/*
 ```
 
+### Icons
+
+http://www.emoji-cheat-sheet.com/
 
 ### SSH Key
 
