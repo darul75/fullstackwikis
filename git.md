@@ -48,6 +48,11 @@ Commit
 git commit -m 'comment'
 ```
 
+Rollback to last Repo Commit
+```
+git reset --hard origin/master
+```
+
 Directory content example
 
 ```
