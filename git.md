@@ -81,3 +81,16 @@ https://toolbelt.heroku.com/
 or
 - git commit -am "mep 01082014"
 - git push origin master
+
+### Gandi
+
+Github Page with domain
+
+#### Github
+https://wiki.gandi.net/en/domains/management/github?s[]=github
+
+#### Gandi
+https://help.github.com/articles/adding-a-cname-file-to-your-repository/
+
+
+
