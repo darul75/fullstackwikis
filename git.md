@@ -28,6 +28,13 @@ overriding existing tag
 git tag -f -a v0.1.4 -m "memory"
 ```
 
+remove
+
+```
+git tag -d 12345
+git push origin :refs/tags/12345
+```
+
 push it
 
 ```
